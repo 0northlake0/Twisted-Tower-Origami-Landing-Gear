@@ -1,1 +1,2 @@
-# Origami-Leg-Shock-Absorption
+# Manufacturing of 3D-printed twisted-tower origami landing gears for drones
+This project contains the code file related to the manufacturing of 3D-printed twisted-tower origami landing gears for drones. GCode produced by Prusa Slicer 2.6 for the ORIGINAL PRUSA i3 MK3S+ fused deposition modeling 3D printer is manipulated such that a specific print order is enforced, leading to better print quality of a thin-walled structure.
